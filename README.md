@@ -21,5 +21,7 @@ git clone https://github.com/MathieuJouffroy/Corewar.git && cd Corewar && make
 ## Usage 
 
 ### ASM
-
+Usage: ./asm champion.s
+    champion.s   — from assemble to bytecode
+    
 ### VM (corewar)
