@@ -25,7 +25,7 @@ Usage: ./asm champion.s
     champion.s   — from assemble to bytecode
     
 ### VM (corewar)
-Usage : ./corewar [-dump, -v [cycle_nb]] [[-n player_nb] champion1.cor] [[-n player_nb] champion2.cor] ...
+Usage : ./corewar [-dump, -v [cycle_nb]] [[-n player_nb] champion1.cor] [[-n player_nb] champion2.cor] ...<br>
     -dump <num> : Dump memory (32 octets per line) after <num> cycles and exit<br>
     -v          : Run visualizer<br>
     -n    <num> : Set <num> of the next player<br>
