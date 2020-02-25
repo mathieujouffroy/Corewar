@@ -31,8 +31,8 @@ Usage: ./asm champion.s
 #### Champion example
 ![Corewar](images/champ.png)
 
-#### Debugger
-The instructions written in a lightweight custom assembly code and theirr value in 
+#### Debugger (option -p)
+The instructions written in a lightweight custom assembly code and their decimal value in bytecode
 ![Corewar](images/debugger.png)
 
 ### VM (corewar)
