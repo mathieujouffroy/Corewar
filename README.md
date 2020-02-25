@@ -37,8 +37,12 @@ This VM will implement the rules of Core War:
 - they must execute 'LIVE' at least once per 'CYCLE_TO_DIE' 
 - while trying to stop the other champions from doing the so.
 
+![Corewar](images/corewar_usage.png)
 
 Usage : ./corewar [-dump, -v [cycle_nb]] [[-n player_nb] champion1.cor] [[-n player_nb] champion2.cor] ...<br>
 - dump <num> : Dump memory (32 octets per line) after <num> cycles and exit<br>
 - v          : Run visualizer<br>
 - n    <num> : Set <num> of the next player<br>
+
+### Game Visualizer
+![Corewar](images/game.png)
