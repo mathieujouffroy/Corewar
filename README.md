@@ -32,7 +32,7 @@ Usage: ./asm champion.s
 ![Corewar](images/champ.png)
 
 #### Debugger (option -p)
-The instructions written in a lightweight custom assembly code and their value in bytecode
+The instructions written in a lightweight custom assembly code and their decimal value in bytecode
 ![Corewar](images/debugger.png)
 
 ### VM (corewar)
