@@ -7,6 +7,19 @@ Algorithmic Project @ 42 Paris
 > (called "warriors") compete for control of a virtual computer. 
 > These battle programs are written in an abstract assembly language called Redcode.
 
+## Project Structure
+
+- Champion
+- Assembler
+- Debugger (Bonus)
+- Virtual Machine
+- Visualizer (Bonus)
+
 ## Installation
 git clone https://github.com/MathieuJouffroy/Corewar.git && cd Corewar && make
 
+## Usage 
+
+### ASM
+
+### VM (corewar)
